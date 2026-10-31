@@ -13,5 +13,7 @@ data/cores/*
 !.vscode/settings.json
 !.vscode/extensions.json
 *.tgz
+/rom
+rom
 dist/
 jsdoc/
